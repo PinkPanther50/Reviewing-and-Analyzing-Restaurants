@@ -1,10 +1,9 @@
 # Reviewing-and-Analyzing-Restaurants
-this is an explanatory analysis of the resturants in banglore using Python and its libraries
-including seaborn , matplotlib  and pandas.
+this is an explanatory analysis of the resturants in banglore using Python
 also contains visualizations of datasets.
  
  
- All the codes are uploaded as ipynb file in this same directory.
+ 
 	
  # Area which have diffrent no of restaurants.
  
@@ -35,14 +34,10 @@ Yellow one shows the resturants not providing online orders . the highest rating
 ![image](https://user-images.githubusercontent.com/119053909/204080905-b33187f1-7d2c-464b-bfd5-a551da1a94fc.png)
 
 
-formed a pivot table which shows that in a particular location how many resturantsprovide online order vs no online orders
+formed a pivot table which shows that in a particular location how many resturants provide online order vs no online orders
 and then plotted in a graphical form
 
 
-Hence we can conclude 
-1. no of online order is more
-2. Rating of resturants with online facility is more in comparison to other.
-3. Areas lke BTM ,HSR have high no of resturants.
 
 
 
