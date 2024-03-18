@@ -1,6 +1,6 @@
 # Reviewing-and-Analyzing-Restaurants
-this is an explanatory analysis of the resturants in banglore using Python
-also contains visualizations of datasets.
+this is an explanatory analysis of the Zomato Dataset
+
  
  
  
@@ -21,21 +21,6 @@ hence setting up in places like ST.mark road , ejipura etc would be beneficial
 illustrates the count of resturants that support online ordering facility
 across the city.
 
-# Rating of resturants vs Online orders
-
-![image](https://user-images.githubusercontent.com/119053909/204080710-3174256b-3219-43de-ae52-9f1f88b21b2c.png)
-
-This shows the avarge rating , highest and lowest rating of diffrent resturants in a boxplot.
-Green one shows the resturants providing online orders . the highest rating is around 4.8 while the lowest is around 2.9.
-Yellow one shows the resturants not providing online orders . the highest rating is around 4.3 while the lowest is around 3.1
-
-# Resturants which provide online order in a particular location
-
-![image](https://user-images.githubusercontent.com/119053909/204080905-b33187f1-7d2c-464b-bfd5-a551da1a94fc.png)
-
-
-formed a pivot table which shows that in a particular location how many resturants provide online order vs no online orders
-and then plotted in a graphical form
 
 
 
